@@ -46,6 +46,10 @@ p {
   font-weight: 200;
 }
 
+.text-color-pale {
+  color: hsl(229, 6%, 66%);
+}
+
 .text-bold {
   font-weight: 600;
 }
@@ -126,7 +130,6 @@ p {
   .wrapper {
     padding-bottom: 0;
     margin-top: 0;
-    margin-bottom: 1rem;
   }
 }
 .container {
