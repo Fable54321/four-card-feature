@@ -1,0 +1,27 @@
+@use "variables" as *;
+
+
+.text-extra-light {
+    font-weight: $fw-200;
+}
+
+.text-bold {
+    font-weight: $fw-600;
+}
+
+.text-color-header {
+    color: $clr-neutral-600;
+}
+
+.font-size-15 {
+    font-size: $fs-400;
+    
+}
+
+.font-size-13 {
+    font-size: $fs-300; 
+}
+
+.margin-top-1rem {
+    margin-top: 1rem;
+}
